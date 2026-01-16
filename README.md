@@ -42,3 +42,25 @@ ___
 ~~로 감싸기: strikethrough  
 
 ~~hello world~~
+
+">": 인용구  
+
+>hello world  
+
+  
+
+*하나, 혹은 -하나 앞에 달기: bullet list  
+
+* hello world
+
+- hello world
+
+  
+
+1.,2.,3.: 숫자 목록  
+
+1. hello world
+
+2. hello world
+
+  
